@@ -13,7 +13,7 @@ Install my-project with npm
   Start the xampp server
   Assign the variables in app/config/config.php
   Change the _PROJECT_FILE_NAME_ in app/public/.htaccess
-  Create a users table with 5 fields:
+  Create a users table with 5 fields:(I also provided my sql file)
         -id  PRIMARY_KEY AI
         -username UNIQUE VARCHAR 255
         -email UNIQUE VARCHAR 255
